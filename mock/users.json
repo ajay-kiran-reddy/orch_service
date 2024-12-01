@@ -1,0 +1,52 @@
+[
+  {
+    "user_id": 1,
+    "first_name": "Erinna",
+    "last_name": "Fitzsymons",
+    "postal_code": "22-530",
+    "birth_date": "6/7/2024",
+    "email": "efitzsymons0@timesonline.co.uk",
+    "subscription": 1,
+    "preference": "ecommerce_service"
+  },
+  {
+    "user_id": 2,
+    "first_name": "Kara",
+    "last_name": "Glass",
+    "postal_code": "252257",
+    "birth_date": "1/13/2024",
+    "email": "kglass1@furl.net",
+    "subscription": 2,
+    "preference": "streaming_service"
+  },
+  {
+    "user_id": 3,
+    "first_name": "Heindrick",
+    "last_name": "Keoghan",
+    "postal_code": null,
+    "birth_date": "10/18/2024",
+    "email": "hkeoghan2@aol.com",
+    "subscription": 3,
+    "preference": "ecommerce_service"
+  },
+  {
+    "user_id": 4,
+    "first_name": "Fabiano",
+    "last_name": "Lawee",
+    "postal_code": null,
+    "birth_date": "3/30/2024",
+    "email": "flawee3@pbs.org",
+    "subscription": 4,
+    "preference": "streaming_service"
+  },
+  {
+    "user_id": 5,
+    "first_name": "Audy",
+    "last_name": "Canacott",
+    "postal_code": "90009 CEDEX",
+    "birth_date": "6/27/2024",
+    "email": "acanacott4@berkeley.edu",
+    "subscription": 5,
+    "preference": "streaming_service"
+  }
+]

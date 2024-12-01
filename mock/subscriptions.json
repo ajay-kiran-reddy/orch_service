@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "accountType": "premium",
+    "renewalDate": "2024-12-01",
+    "registrationDate": "2023-12-01",
+    "product": "ecommerce_service",
+    "status": "active",
+    "paymentMethod": "credit_card",
+    "userId": 1
+  },
+  {
+    "id": 2,
+    "accountType": "platinum",
+    "renewalDate": "2024-12-01",
+    "registrationDate": "2023-12-01",
+    "product": "streaming_service",
+    "status": "inactive",
+    "paymentMethod": "credit_card",
+    "userId": 2
+  },
+  {
+    "id": 3,
+    "accountType": "platinum",
+    "renewalDate": "2024-12-01",
+    "registrationDate": "2023-12-01",
+    "product": "ecommerce_service",
+    "status": "active",
+    "paymentMethod": "credit_card",
+    "userId": 3
+  },
+  {
+    "id": 4,
+    "accountType": "premium",
+    "renewalDate": "2024-12-01",
+    "registrationDate": "2023-12-01",
+    "product": "streaming_service",
+    "status": "active",
+    "paymentMethod": "credit_card",
+    "userId": 4
+  },
+  {
+    "id": 5,
+    "accountType": "platinum",
+    "renewalDate": "2024-12-01",
+    "registrationDate": "2023-12-01",
+    "product": "streaming_service",
+    "status": "active",
+    "paymentMethod": "credit_card",
+    "userId": 5
+  }
+]

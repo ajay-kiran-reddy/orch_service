@@ -1,0 +1,16 @@
+{
+  "streaming_service": {
+    "mode": "dark",
+    "location": "US",
+    "notify_enabled": true,
+    "can_email": false,
+    "is_subscribed_to_newsletter": false
+  },
+  "ecommerce_service": {
+    "mode": "light",
+    "location": "UK",
+    "notify_enabled": true,
+    "can_email": false,
+    "is_subscribed_to_newsletter": false
+  }
+}

@@ -11,3 +11,4 @@ const PORT = 3003;
 app.listen(PORT, () =>
   console.log(`Preference service running on port ${PORT}`)
 );
+module.exports = app;
